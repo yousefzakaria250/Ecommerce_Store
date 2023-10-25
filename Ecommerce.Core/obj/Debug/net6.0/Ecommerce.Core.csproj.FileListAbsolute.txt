@@ -1,0 +1,12 @@
+G:\ProjectExamples23\Ecommerce\Ecommerce.Core\bin\Debug\net6.0\Ecommerce.Core.deps.json
+G:\ProjectExamples23\Ecommerce\Ecommerce.Core\bin\Debug\net6.0\Ecommerce.Core.dll
+G:\ProjectExamples23\Ecommerce\Ecommerce.Core\bin\Debug\net6.0\Ecommerce.Core.pdb
+G:\ProjectExamples23\Ecommerce\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.csproj.AssemblyReference.cache
+G:\ProjectExamples23\Ecommerce\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProjectExamples23\Ecommerce\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.AssemblyInfoInputs.cache
+G:\ProjectExamples23\Ecommerce\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.AssemblyInfo.cs
+G:\ProjectExamples23\Ecommerce\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.csproj.CoreCompileInputs.cache
+G:\ProjectExamples23\Ecommerce\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.dll
+G:\ProjectExamples23\Ecommerce\Ecommerce.Core\obj\Debug\net6.0\refint\Ecommerce.Core.dll
+G:\ProjectExamples23\Ecommerce\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.pdb
+G:\ProjectExamples23\Ecommerce\Ecommerce.Core\obj\Debug\net6.0\ref\Ecommerce.Core.dll

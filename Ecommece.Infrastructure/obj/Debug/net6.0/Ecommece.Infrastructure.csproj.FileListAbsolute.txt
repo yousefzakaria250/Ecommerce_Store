@@ -1,0 +1,17 @@
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\bin\Debug\net6.0\Ecommece.Infrastructure.deps.json
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\bin\Debug\net6.0\Ecommece.Infrastructure.runtimeconfig.json
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\bin\Debug\net6.0\Ecommece.Infrastructure.dll
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\bin\Debug\net6.0\Ecommece.Infrastructure.pdb
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\bin\Debug\net6.0\Ecommerce.Core.dll
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\bin\Debug\net6.0\Ecommerce.Core.pdb
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\obj\Debug\net6.0\Ecommece.Infrastructure.csproj.AssemblyReference.cache
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\obj\Debug\net6.0\Ecommece.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\obj\Debug\net6.0\Ecommece.Infrastructure.AssemblyInfoInputs.cache
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\obj\Debug\net6.0\Ecommece.Infrastructure.AssemblyInfo.cs
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\obj\Debug\net6.0\Ecommece.Infrastructure.csproj.CoreCompileInputs.cache
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\obj\Debug\net6.0\Ecommece.Infrastructure.csproj.CopyComplete
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\obj\Debug\net6.0\Ecommece.Infrastructure.dll
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\obj\Debug\net6.0\refint\Ecommece.Infrastructure.dll
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\obj\Debug\net6.0\Ecommece.Infrastructure.pdb
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\obj\Debug\net6.0\Ecommece.Infrastructure.genruntimeconfig.cache
+G:\ProjectExamples23\Ecommerce\Ecommece.Infrastructure\obj\Debug\net6.0\ref\Ecommece.Infrastructure.dll
